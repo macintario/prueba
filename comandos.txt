@@ -1,0 +1,135 @@
+    1  ls
+    2  java
+    3  nano HelloWorld.java
+    4  mvn -version
+    5  ls
+    6  javac HelloWorld.java 
+    7  ll
+    8  java HelloWorld.class 
+    9  nano HelloWorld.java
+   10  nano HelloWorld.java HelloWorld
+   11  java HelloWorld.class HelloWorld
+   12  java HelloWorld
+   13  clear 
+   14  cat  HelloWorld.java
+   15  javac HelloWorld.java 
+   16  java HelloWorld
+   17  mvn --version
+   18  whoami 
+   19  python
+   20  passwd igr
+   21  passwd
+   22  passwd igr
+   23  sudo passwd igr
+   24  exit
+   25  java HelloWorld
+   26  ls
+   27  more HelloWorld.
+   28  more HelloWorld.
+   29  exit
+   30  clear
+   31  date
+   32  java HelloWorld
+   33  mvn --version
+   34  cat /etc/profile.d/maven.sh 
+   35  exit
+   36  top
+   37  date
+   38  history --help
+   39  man history
+   40  info history
+   41  python3
+   42  cat /etc/profile.d/maven.sh 
+   43  whoami
+   44  ls
+   45  mkdir javatest
+   46  mv HelloWorld.* javatest
+   47  ls -l
+   48  clear
+   49  exit
+   50  sudo ls
+   51  pwd
+   52  exit
+   53  git --config user.name "macintario"
+   54  git config --global user.name "macintario@gmail.com"
+   55  git config --list
+   56  ls .gitconfig 
+   57  more .gitconfig 
+   58  mkdir pruebas
+   59  cd pruebas/
+   60  echo "macintario" >> READ.md
+   61  git init
+   62  git remote add origin https://github.com/macintario/prueba.git
+   63  git commit -m "Repositorio de prueba 1st commit"
+   64  cd ..
+   65  git commit -m "Repositorio de prueba 1st commit"
+   66  cd
+   67  git commit -m "Repositorio de prueba 1st commit"
+   68  cd pruebas/
+   69  git commit -m "Repositorio de prueba 1st commit"
+   70  git config --global user.name "macintario@gmail.com"
+   71  git commit -m "Repositorio de prueba 1st commit"
+   72  git config --global user.email "macintario@gmail.com"
+   73  cd ..
+   74  git config --global user.email "macintario@gmail.com"
+   75  cd pruebas/
+   76  git commit -m "Repositorio de prueba 1st commit"
+   77  git push -u origin master
+   78  cd ..
+   79  rm -frv pruebas
+   80  git
+   81  git show
+   82  cd
+   83  git config --global user.mail "macintario@gmail.com"
+   84  mkdir prueba
+   85  cd prueba
+   86  echo "macintario" >> READ.md
+   87  ls
+   88  more READ.md 
+   89  git remote add origin https://github.com/macintario/prueba.git
+   90  git config --global user.email "macintario@gmail.com"
+   91  git remote add origin https://github.com/macintario/prueba.git
+   92  git config --global user.email "macintario@gmail.com"
+   93  git remote add origin https://github.com/macintario/prueba.git
+   94  ls .git
+   95  cd ..
+   96  more .gitconfig 
+   97  rm .gitconfig 
+   98  cd prueba/
+   99  ls
+  100  git config --global user.email "macintario@gmail.com"
+  101  ls .*
+  102  ls ../.*
+  103  cd ..
+  104  more .gitconfig 
+  105  cd prueba/
+  106  git remote add origin https://github.com/macintario/prueba.git
+  107  git init
+  108  git commit -m "first commit"
+  109  git config --global user.name "macintario"
+  110  git commit -m "first commit"
+  111  git remote add origin https://github.com/macintario/prueba.git
+  112  git push -u origin master
+  113  git config --global credential.helper cache 
+  114  git push -u origin master
+  115  git remote add origin https://github.com/macintario/prueba.git
+  116  git push -u origin master
+  117  cd ..
+  118  rm prueba  -frv
+  119  rm .gitconfig 
+  120  rm .git-credential-cache/
+  121  rm .git-credential-cache/ -frv
+  122  mkdir prueba
+  123  cd prueba
+  124  echo "# prueba" >> README.md
+  125  git init
+  126  git add README.md
+  127  git commit -m "first commit"
+  128  git config --global user.email "macintario@gmail.com"
+  129  git config --global user.name "macinatrio"
+  130  git commit -m "first commit"
+  131  git remote add origin https://github.com/macintario/prueba.git
+  132  git push -u origin master
+  133  git branch -a
+  134  git checkout -b comandos
+  135  history >> comandos.txt
